@@ -1,0 +1,9 @@
+pyspark
+delta-spark
+boto3
+s3fs
+pyarrow
+python-dotenv
+dbt-core
+dbt-postgres
+psycopg2-binary
